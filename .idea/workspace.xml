@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93be5841-5105-4120-98c8-6d1e7ee427e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUU2rkDtxHGUk8a6ftIGYD52t0" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cybertek.tests.day2_webdriver_basics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MR.HAG\IdeaProjects\Mr.HAG" />
+      <recent name="C:\Users\MR.HAG\IdeaProjects\Mr.HAG\src\test\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DDFLoginTest.loginTestDDF">
+    <configuration name="C:/Users/MR.HAG/IdeaProjects/Mr.HAG/testng_runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mr.HAG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DDFLoginTest.loginTestDDF" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mr.HAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day19_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day19_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day19_ddf.DDFLoginTest" />
+      <option name="METHOD_NAME" value="loginTestDDF" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DDFWithDataProvider.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mr.HAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day19_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day19_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day19_ddf.DDFWithDataProvider" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtilsDemo.readExcelFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mr.HAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day19_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day19_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day19_ddf.ExcelUtilsDemo" />
+      <option name="METHOD_NAME" value="readExcelFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginPage.LoginAsDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Mr.HAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day16_pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_pom" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_pom.PositiveLoginPage" />
+      <option name="METHOD_NAME" value="LoginAsDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DDFLoginTest.loginTestDDF" />
+        <item itemvalue="TestNG.DDFWithDataProvider.test1" />
+        <item itemvalue="TestNG.ExcelUtilsDemo.readExcelFile" />
+        <item itemvalue="TestNG.C:/Users/MR.HAG/IdeaProjects/Mr.HAG/testng_runner.xml" />
+        <item itemvalue="TestNG.PositiveLoginPage.LoginAsDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93be5841-5105-4120-98c8-6d1e7ee427e3" name="Default Changelist" comment="" />
+      <created>1584892961624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584892961624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="17" key="#Notifications" timestamp="1586701165602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="17" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1586701165602" />
+    <state x="275" y="0" key="#Plugins" timestamp="1590863661714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1590863661714" />
+    <state x="137" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586702841166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586702841166" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587738298309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1587738298309" />
+    <state x="413" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585495344924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585495344924" />
+    <state x="479" y="218" width="469" height="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585495349346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="218" width="469" height="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585495349346" />
+    <state x="441" y="220" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586716574805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="220" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586716574805" />
+    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1589430009622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589430009622" />
+    <state width="1322" height="222" key="GridCell.Tab.0.bottom" timestamp="1590609904594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590609904594" />
+    <state width="1322" height="222" key="GridCell.Tab.0.center" timestamp="1590609904594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590609904594" />
+    <state width="1322" height="222" key="GridCell.Tab.0.left" timestamp="1590609904594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590609904594" />
+    <state width="1322" height="222" key="GridCell.Tab.0.right" timestamp="1590609904594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590609904594" />
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom" timestamp="1586721528987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586721528987" />
+    <state width="1322" height="214" key="GridCell.Tab.1.center" timestamp="1586721528987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586721528987" />
+    <state width="1322" height="214" key="GridCell.Tab.1.left" timestamp="1586721528987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586721528987" />
+    <state width="1322" height="214" key="GridCell.Tab.1.right" timestamp="1586721528987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586721528987" />
+    <state x="213" y="13" key="Maven.ArtifactSearchDialog" timestamp="1589429872353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="13" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1589429872353" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1590938582476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590938582476" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586702816373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1586702816373" />
+    <state x="378" y="181" key="com.intellij.ide.util.TipDialog" timestamp="1587053114659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="181" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587053114659" />
+    <state x="260" y="94" width="846" height="615" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586702681567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="94" width="846" height="615" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1586702681567" />
+    <state x="65" y="19" key="new project wizard" timestamp="1590938974934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="19" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590938974934" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590863643008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590863643008" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/day18_review/VerifyContactInfoTest.java</url>
+          <line>28</line>
+          <properties class="com.cybertek.tests.day18_review.VerifyContactInfoTest" method="contactDetailsTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mr_HAG$AmazonTest.ic" NAME="AmazonTest Coverage Results" MODIFIED="1586702610833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cybertek.tests.day5_xpath.*</FILTER>
+    </SUITE>
+  </component>
+</project>
